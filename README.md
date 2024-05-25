@@ -1,1 +1,3 @@
-# -Effective-
+# Effective-Series
+
+Effective系列
